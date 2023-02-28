@@ -1,0 +1,15 @@
+Luis Alberto López Álvarez
+Jorge Vela Sánchez
+
+
+
+
+La aplicación React Native se ha probado tanto para Android como para iOS (además de en un servidor web), funcionando en cada uno de los casos de forma correcta.
+
+
+Las funcionalidades implementadas son las dos primeras que aparecen en la práctica, es decir:
+
+-Aplicación React Native del Quiz implementada correctamente.
+-Navegación entre pantallas implementada correctamente (en este caso, no salía por pantalla con StackNavigation pero si con TabNavigation, por lo que está realizada de esta segunda manera).
+
+
